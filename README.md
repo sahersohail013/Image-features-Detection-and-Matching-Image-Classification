@@ -25,7 +25,7 @@ from tqdm import tqdm<br>
 import time<br>
 
 # Repository Files
-task1.ipynb<br>
+task1_INRIA.ipynb<br>
 task2_objects.ipynb<br>
 task2_flowers.ipynb<br>
 
